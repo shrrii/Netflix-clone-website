@@ -15,6 +15,16 @@ Welcome to the Netflix Clone Website! This project is a full clone of a Netflix 
 
 - **HTML**: Structure of the website.
 - **CSS**: Styling and layout of the website.
+  
+## User Interface
+
+Watch the screen recording below to see the Netflix Clone Website in action:
+
+
+https://github.com/user-attachments/assets/99836cf7-d57d-4804-a15c-06df68be9756
+
+
+
   ## Acknowledgements
 
 - Thanks to the developers of the libraries and frameworks used in this project.
